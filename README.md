@@ -48,7 +48,7 @@ Would you like to use Python library instead to help you compare strings and doc
 
 ## Explore it 
 
-Explore it and twist it to your own use case, in case of any question feel free to reach me out directly *isaackeinstein(at)gmail.com*
+Explore it and twist it to your own use case, in case of any question feel free to reach me out directly *kamalesh0028(at)gmail.com*
 
 ## Issues 
 
